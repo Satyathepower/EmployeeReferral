@@ -1,0 +1,199 @@
+/* 
+    Document   : panel
+    Created on : Jan 29, 2009, 11:50:28 AM
+    Author     : nidhi.vasudeva
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+body
+{
+    display: block;
+    color:#04477a;
+    font-size:12px;
+    font-family:Gerorgia,'Times New Roman',times;
+    background:
+    position:absolute;
+    left:2%;
+    right:2%;
+    top:2%;
+    bottom:2%;
+}
+
+tr
+{  
+    height:20px;
+}
+
+th
+{    
+    background:url(../images/bg_header7.jpg) repeat-x;
+    font-size: 12px;
+    color:#0b60a1;
+    border-top: 1px solid #999999;
+    border-bottom: 1px solid #999999;
+}
+
+td
+{  
+    font-size:14px;
+    font-family:Arial,Helvetica,sans-serif;
+}
+
+select
+{
+    width: 100px;
+    font-size: 11px;
+}
+
+fieldset
+{
+    -moz-border-radius:10px;
+}
+
+legend
+{    
+    font-weight: bold;
+}
+
+input
+{
+    border:solid 1px;
+    font-size:12px;
+    color:black;
+}
+
+.button
+{  
+    background:url(../images/bg_header7.jpg) repeat-x;
+    border-color:#0b60a1;
+    border:solid 1px;
+    -moz-border-radius:10px;
+}
+.sizefont
+{  
+    font-size:13px;
+    font-family:Arial,Helvetica,sans-serif;
+}
+.tdBorderBottom
+{
+    border-bottom: 1px solid #999999;
+}
+
+.tdBorderTop
+{
+    border-top: 1px solid #999999;
+}
+
+.tdBorderRight
+{
+    border-right: 1px solid #999999;
+}
+
+.tdBorderLeft
+{
+    border-left: 1px solid #999999;
+    
+}
+
+.tdbgcolor
+{
+   background-color: #c9c9fb;
+    
+}
+
+
+.noBorder
+{
+    border-width:0px;
+}
+
+.tdBorder
+{
+    border-top: 1px solid #999999;
+    border-bottom: 1px solid #999999;
+    border-left: 1px solid #999999;
+    border-right: 1px solid #999999;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.italic
+{
+    font-style: italic;
+}
+
+.big
+{
+    font-size: 14px;
+}
+
+.small
+{
+    font-size: 10px;
+}
+
+.readonly
+{
+    
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.heading
+{    
+    font-size: 14px;
+    font-family:Gerorgia,'Times New Roman',times;
+    font-variant: small-caps;
+    font-weight:bold;
+}
+
+.tab
+{
+   padding-left: 5px;
+   padding-right: 5px;
+}
+
+.mouseover
+{
+    background:url(../images/bg_header7.jpg) repeat-x;
+    color:black;
+}
+
+.tabsHeader
+{
+    background:url(../images/bg_header7.jpg) repeat-x;
+    border-top:1px solid #999999;
+    border-bottom:1px solid #999999;
+    font-weight:bold;
+    color:black;
+}
+
+.tabSelected
+{
+    border-style:solid;
+    border-width:1px 2px 1px 2px;
+    padding:3px;
+    border-style:solid;
+    border-color:#0b60a1;
+}
+
+.anchor
+{
+    font-size:11px;
+    font-family:Gerorgia,'Times New Roman',times;
+    color:#0b60a1;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight:bold;
+}

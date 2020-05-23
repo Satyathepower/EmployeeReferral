@@ -1,0 +1,50 @@
+/* tr
+{  
+    height:20px;
+}
+
+th
+{    
+    background-color: #c9c9fb;
+    font-size: 14px;
+    color:#000000;
+    border-top: 1px solid #999999;
+    border-bottom: 1px solid #999999;
+    font-family:Arial,Helvetica,sans-serif;
+}
+
+td
+{  
+    font-size:12px;
+    font-family:Arial,Helvetica,sans-serif;
+}
+.tdBorderBottom
+{
+    border-bottom: 1px solid #999999;
+}
+
+.tdBorderTop
+{
+    border-top: 1px solid #999999;
+}
+
+.tdBorderRight
+{
+    border-right: 1px solid #999999;
+}
+
+.tdBorderLeft
+{
+    border-left: 1px solid #999999;
+    
+}
+
+.tdbgcolor
+{
+   background-color: #c9c9fb;
+    
+} */
+
+body {
+    background-color: white;
+}

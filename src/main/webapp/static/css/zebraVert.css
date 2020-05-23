@@ -1,0 +1,24 @@
+table.zebra_vert thead {
+    color: white;
+}
+
+table.zebra_vert thead td {
+    background: #444;
+    font-weight: 600;
+}
+
+table.zebra_vert td {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+table.zebra_vert tbody tr {
+    background: #fafafa;
+}
+
+table.zebra_vert tbody tr.even_row {
+    background: #f6f1eb;
+}
+
+table.zebra_vert tbody tr:hover {
+    background: #eef0ff;
+}
